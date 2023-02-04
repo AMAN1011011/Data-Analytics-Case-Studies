@@ -1,4 +1,4 @@
-*All Case Studies are under process will be uploaded by 18-JAN-2022*
+
 ## Data-science-case-Studies
 #### In this repository , you will be able to see some of the Data analysis made by me on various datas.
 #### I have analysed these datas and made some various outcomes from the datas for further improvement of the data set or to make any necessary updete in it. I have used python programming for this data analysis an used various charts and graphs available from python for better understanding
