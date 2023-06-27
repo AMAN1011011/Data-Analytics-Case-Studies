@@ -1,3 +1,1 @@
-## Business Analytics
-#### Data uploaded
-Under Progress
+###Hotel Booking Prediction and EDA
